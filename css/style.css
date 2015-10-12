@@ -1,0 +1,102 @@
+label {
+	color: black;
+}
+button{
+	background-color: #cec;
+}
+
+#zaposlenje {
+	float:right;
+    width: 300px;
+    margin-right: 20px; 
+    margin-top: 20px; 
+
+}
+
+table { 
+	border-collapse: collapse; 
+    margin-left: 20px; 
+    margin-right:auto;
+    margin-top: 20px; 
+   float: left;
+}
+
+th, td { 
+	border: 1px solid #333; padding: 5px; 
+}
+th { 
+    background: #cec; 
+}
+ul { 
+	margin: 1px; list-style: decimal; 
+}
+.error { 
+	background: #ccecec; color: red; font-weight: bold; padding: 3px; 
+}
+.allgood { 
+	background: #ccecec; color: green; font-weight: bold; padding: 3px; 
+}
+    
+#heder {
+	height: 70px;
+	background-color: black;
+	margin: 0px;
+}
+#footer {
+	position: relative;
+	margin-top: -70px;
+	height: 70px;
+	clear:both;
+	background-color: black;
+	} 
+#prikazi {
+    display: block;
+    width: 600px;
+}
+h3{
+	background-color: #cec;
+}
+
+#login {
+	margin-left:auto; 
+    margin-right:auto;
+    text-align: center;
+    margin-top: 30px;
+}
+html, body {
+	 height: 100%;
+	 margin: 0 auto; 
+}
+#pretraga {
+	float: left;
+	margin-left: 20px;
+	width: 200px;
+}
+#odjava {
+	float: right;
+	margin-right: 20px;
+	width: 200px;
+}
+#razmak {
+	height: 5px;
+}
+input{
+	margin-top:3px;
+	margin-bottom:3px;
+}
+#bodypretraga {
+	text-align: center;
+}
+#bodylogout {
+	text-align: center;
+}
+#wraper {
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+
+
+
+
+
